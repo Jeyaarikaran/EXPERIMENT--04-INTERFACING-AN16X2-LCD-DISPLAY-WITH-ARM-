@@ -178,10 +178,13 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## Output screen shots of proteus  :
- 
+ ![Screenshot 2025-04-09 153813](https://github.com/user-attachments/assets/99eff063-ff23-4405-be8d-1ab2bfb7d1a7)
+![Screenshot 2025-04-09 153557](https://github.com/user-attachments/assets/8a96990f-c2f0-469a-9881-23c271a1aa33)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+ ![image](https://github.com/user-attachments/assets/3044b3b1-f53a-4e32-8e40-53dc0add0df2)
+
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
